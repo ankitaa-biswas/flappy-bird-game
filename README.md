@@ -17,4 +17,4 @@ A simple JavaScript-based Flappy Bird game where players control a bird and navi
 ## Installation & Running
 1. Clone the repository:
    ```sh
-   git clone https://github.com/YOUR_USERNAME/flappy-bird.git
+   git clone https://github.com/YOUR_USERNAME/flappy-bird-game.git
